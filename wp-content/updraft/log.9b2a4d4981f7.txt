@@ -1,0 +1,276 @@
+0000.002 (0) Opened log file at time: Tue, 23 Jun 2020 05:47:52 +0000 on http://localhost/anugy_web
+0000.034 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.2.31 (apache2handler, Windows NT DESKTOP-S5JF66O 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.31 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 33.7M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.067 (0) Free space on disk containing Updraft's temporary directory: 162767.3 MB
+0000.218 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.280 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.432 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1592890510, seconds_ago=762)
+0000.632 (0) Set semaphore last lock (fd) time to 2020-06-23 05:47:52
+0000.755 (0) Semaphore lock (fd) complete
+0000.926 (0) Backup run: resumption=0, nonce=9b2a4d4981f7, file_nonce=9b2a4d4981f7 begun at=1592891272 (1s ago), job type=backup
+0001.232 (0) Scheduling a resumption (1) after 300 seconds (1592891573) in case this run gets aborted
+0001.308 (0) Checking if we have a zip executable available
+0001.388 (0) Creation of backups of directories: beginning
+0001.555 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.199 (0) Total entities for the zip file: 277 directories, 2045 files (0 skipped as non-modified), 45.3 MB
+0002.351 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.481 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.638 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.728 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.806 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.846 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.3 MB, 2045 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0004.683 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 600 files added (on-disk size: 4429 KB)
+0004.931 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 700 files added (on-disk size: 4429 KB)
+0005.025 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 800 files added (on-disk size: 4429 KB)
+0005.082 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 900 files added (on-disk size: 4429 KB)
+0005.339 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1000 files added (on-disk size: 4429 KB)
+0005.400 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.8 MB, 2045 files batched, 501 (1002) added so far); re-opening (prior size: 4429 KB)
+0008.217 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1100 files added (on-disk size: 9276.2 KB)
+0008.337 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1200 files added (on-disk size: 9276.2 KB)
+0008.469 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1300 files added (on-disk size: 9276.2 KB)
+0008.558 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1400 files added (on-disk size: 9276.2 KB)
+0008.639 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1500 files added (on-disk size: 9276.2 KB)
+0008.667 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.7 MB, 2045 files batched, 501 (1503) added so far); re-opening (prior size: 9276.2 KB)
+0010.640 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1600 files added (on-disk size: 13296.2 KB)
+0010.936 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1700 files added (on-disk size: 13296.2 KB)
+0011.073 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1800 files added (on-disk size: 13296.2 KB)
+0011.238 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 1900 files added (on-disk size: 13296.2 KB)
+0011.319 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip.tmp: 2000 files added (on-disk size: 13296.2 KB)
+0011.380 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.3 MB, 2045 files batched, 501 (2004) added so far); re-opening (prior size: 13296.2 KB)
+0013.534 (0) Created plugins zip (0) - 14105.3 KB in 11.9 s (1185.6 KB/s) (sha1: af79e60ea47d17b78241183eee0377a7bd3422ba, sha256: 14f22aca7c6f957360cc6712c12f465570899ad013d21eae1b180bd35bf2a5eb)
+0013.649 (0) Beginning creation of dump of themes (split every: 400 MB)
+0013.908 (0) Total entities for the zip file: 54 directories, 262 files (0 skipped as non-modified), 12.6 MB
+0014.129 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.215 (0) Zip: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.044 (0) Created themes zip (0) - 8707.4 KB in 1.3 s (6960.6 KB/s) (sha1: 62e1afc8bf0021cee5dbaeed2e3467f4b44e7c0e, sha256: d7cee6cc7b8d8c4a034100b27480c3914967f840728d5f5d52a14d425f68cc6d)
+0015.133 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0015.178 (0) Looking for candidates to backup in: C:\xampp\htdocs\anugy_web/wp-content/uploads
+0015.211 (0) finding files: 2020: adding to list (1)
+0015.234 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0015.326 (0) Total entities for the zip file: 3 directories, 62 files (0 skipped as non-modified), 5.4 MB
+0015.589 (0) Created uploads zip (0) - 5581.5 KB in 0.3 s (18035.7 KB/s) (sha1: 23458e6e66dea1ef6387946c5d3429b87b789bcb, sha256: a756d48c549ccb31c4e108f0af4e50ab4fa0bdc2459e2c2bbfde9d81b74b3f40)
+0015.822 (0) Beginning backup of other directories found in the content directory (index: 0)
+0015.967 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0016.044 (0) Looking for candidates to backup in: C:\xampp\htdocs\anugy_web/wp-content
+0016.106 (0) finding files: index.php: adding to list (1)
+0016.150 (0) finding files: plugins: skipping: this is the plugins directory
+0016.211 (0) finding files: themes: skipping: this is the themes directory
+0016.266 (0) finding files: updraft: skipping: this is the updraft directory
+0016.300 (0) finding files: upgrade: skipping: excluded by options
+0016.333 (0) finding files: uploads: skipping: this is the uploads directory
+0016.573 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0016.799 (0) Created others zip (0) - 0.1 KB in 0.3 s (0.4 KB/s) (sha1: bcd2a0a1240993715767bae8c2482e5087fb5727, sha256: f6629e98a1dd6cde7b45dbb4125062eeaaeebb6cd463c1566aff7455ed55786d)
+0017.211 (0) Saving backup status to database (elements: 8)
+0017.350 (0) Beginning creation of database dump (WordPress DB)
+0017.746 (0) Table wp_options: Total expected rows (approximate): 231
+0017.943 (0) Table wp_options: Total rows added: 225 in 0.13 seconds
+0018.162 (0) Table wp_options: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_options.table.gz - 147.1 KB)
+0018.356 (0) Table wp_users: Total expected rows (approximate): 0
+0018.427 (0) Table wp_users: Total rows added: 1 in 0.02 seconds
+0018.468 (0) Table wp_users: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_users.table.gz - 0.6 KB)
+0018.589 (0) Table wp_usermeta: Total expected rows (approximate): 23
+0018.628 (0) Table wp_usermeta: Total rows added: 24 in 0.02 seconds
+0018.704 (0) Table wp_usermeta: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_usermeta.table.gz - 1.1 KB)
+0018.834 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0018.916 (0) Table wp_commentmeta: Total rows added: 0 in 0.04 seconds
+0018.970 (0) Table wp_commentmeta: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0019.091 (0) Table wp_comments: Total expected rows (approximate): 0
+0019.406 (0) Table wp_comments: Total rows added: 1 in 0.13 seconds
+0019.479 (0) Table wp_comments: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_comments.table.gz - 0.7 KB)
+0019.623 (0) Table wp_links: Total expected rows (approximate): 0
+0019.691 (0) Table wp_links: Total rows added: 0 in 0.04 seconds
+0019.770 (0) Table wp_links: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_links.table.gz - 0.4 KB)
+0020.096 (0) Table wp_postmeta: Total expected rows (approximate): 555
+0020.858 (0) Table wp_postmeta: Total rows added: 589 in 0.70 seconds
+0020.970 (0) Table wp_postmeta: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_postmeta.table.gz - 5.8 KB)
+0022.186 (0) Table wp_posts: Total expected rows (approximate): 132
+0022.329 (0) Table wp_posts: Total rows added: 131 in 0.04 seconds
+0022.523 (0) Table wp_posts: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_posts.table.gz - 7.7 KB)
+0022.763 (0) Table wp_term_relationships: Total expected rows (approximate): 28
+0022.858 (0) Table wp_term_relationships: Total rows added: 28 in 0.04 seconds
+0022.987 (0) Table wp_term_relationships: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0023.211 (0) Table wp_term_taxonomy: Total expected rows (approximate): 7
+0023.328 (0) Table wp_term_taxonomy: Total rows added: 7 in 0.08 seconds
+0023.393 (0) Table wp_term_taxonomy: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0023.512 (0) Table wp_termmeta: Total expected rows (approximate): 19
+0023.578 (0) Table wp_termmeta: Total rows added: 20 in 0.03 seconds
+0023.637 (0) Table wp_termmeta: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_termmeta.table.gz - 0.5 KB)
+0023.953 (0) Table wp_terms: Total expected rows (approximate): 7
+0024.020 (0) Table wp_terms: Total rows added: 7 in 0.03 seconds
+0024.071 (0) Table wp_terms: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_terms.table.gz - 0.5 KB)
+0024.278 (0) Table wp_gf_draft_submissions: Total expected rows (approximate): 0
+0024.416 (0) Table wp_gf_draft_submissions: Total rows added: 0 in 0.03 seconds
+0024.456 (0) Table wp_gf_draft_submissions: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_draft_submissions.table.gz - 0.4 KB)
+0024.579 (0) Table wp_gf_entry: Total expected rows (approximate): 0
+0024.669 (0) Table wp_gf_entry: Total rows added: 0 in 0.04 seconds
+0024.738 (0) Table wp_gf_entry: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_entry.table.gz - 0.5 KB)
+0025.079 (0) Table wp_gf_entry_meta: Total expected rows (approximate): 0
+0025.235 (0) Table wp_gf_entry_meta: Total rows added: 0 in 0.09 seconds
+0025.291 (0) Table wp_gf_entry_meta: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_entry_meta.table.gz - 0.4 KB)
+0025.490 (0) Table wp_gf_entry_notes: Total expected rows (approximate): 0
+0025.575 (0) Table wp_gf_entry_notes: Total rows added: 0 in 0.03 seconds
+0025.623 (0) Table wp_gf_entry_notes: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_entry_notes.table.gz - 0.4 KB)
+0025.779 (0) Table wp_gf_form: Total expected rows (approximate): 0
+0025.844 (0) Table wp_gf_form: Total rows added: 0 in 0.03 seconds
+0025.912 (0) Table wp_gf_form: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_form.table.gz - 0.4 KB)
+0026.000 (0) Table wp_gf_form_meta: Total expected rows (approximate): 0
+0026.294 (0) Table wp_gf_form_meta: Total rows added: 0 in 0.09 seconds
+0026.345 (0) Table wp_gf_form_meta: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_form_meta.table.gz - 0.3 KB)
+0026.605 (0) Table wp_gf_form_revisions: Total expected rows (approximate): 0
+0026.707 (0) Table wp_gf_form_revisions: Total rows added: 0 in 0.04 seconds
+0026.780 (0) Table wp_gf_form_revisions: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_form_revisions.table.gz - 0.4 KB)
+0026.923 (0) Table wp_gf_form_view: Total expected rows (approximate): 0
+0026.993 (0) Table wp_gf_form_view: Total rows added: 0 in 0.04 seconds
+0027.037 (0) Table wp_gf_form_view: finishing file (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_form_view.table.gz - 0.4 KB)
+0027.104 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_options.table.gz (1/20): adding to final database dump
+0027.178 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_users.table.gz (2/20): adding to final database dump
+0027.390 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_usermeta.table.gz (3/20): adding to final database dump
+0027.534 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_commentmeta.table.gz (4/20): adding to final database dump
+0027.900 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_comments.table.gz (5/20): adding to final database dump
+0028.067 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_links.table.gz (6/20): adding to final database dump
+0028.122 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_postmeta.table.gz (7/20): adding to final database dump
+0028.180 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_posts.table.gz (8/20): adding to final database dump
+0028.236 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_term_relationships.table.gz (9/20): adding to final database dump
+0028.300 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_term_taxonomy.table.gz (10/20): adding to final database dump
+0028.510 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_termmeta.table.gz (11/20): adding to final database dump
+0028.845 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_terms.table.gz (12/20): adding to final database dump
+0028.945 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_draft_submissions.table.gz (13/20): adding to final database dump
+0029.223 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_entry.table.gz (14/20): adding to final database dump
+0029.267 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_entry_meta.table.gz (15/20): adding to final database dump
+0029.312 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_entry_notes.table.gz (16/20): adding to final database dump
+0029.489 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_form.table.gz (17/20): adding to final database dump
+0029.559 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_form_meta.table.gz (18/20): adding to final database dump
+0029.589 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_form_revisions.table.gz (19/20): adding to final database dump
+0029.623 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db-table-wp_gf_form_view.table.gz (20/20): adding to final database dump
+0029.808 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz: finished writing out complete database file (160 KB)
+0031.156 (0) Total database tables backed up: 20 (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz, size: 168237, sha1: d20d5af6edbd0bb621b0cb66e545af6c26d4eb8d, sha256: 17625c48336cf0c824ba6328c3b20fe363ff8d78ae3d259ece0633aa9577c447)
+0031.566 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0031.601 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0031.800 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0031.881 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-others.zip: others: This file has not yet been successfully uploaded: will queue
+0031.922 (0) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz: db: This file has not yet been successfully uploaded: will queue
+0032.111 (0) Saving backup history. Total backup size: 27.9 MB
+0032.334 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0032.456 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0032.744 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-670526d3350abeec85a388f362afd701)
+0032.923 (0) Dropbox: You do not appear to be authenticated with Dropbox (1)
+0032.955 (0) An error condition has occurred for the first time during this job
+0033.022 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0033.235 (0) Number of backup sets in history: 2; groups (db): 1
+0033.619 (0) Examining (for databases) backup set with group_id=0, nonce=9b2a4d4981f7, datestamp=1592891272 (Jun 23 2020 05:47:52)
+0034.122 (0) This backup set is the backup set just made, so will not be deleted.
+0034.122 (0) Examining (for databases) backup set with group_id=0, nonce=32ec9b15f473, datestamp=1592890510 (Jun 23 2020 05:35:10)
+0034.122 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.201 (0) Number of backup sets in history: 2; groups (files): 1
+0034.300 (0) Examining (for files) backup set with nonce=9b2a4d4981f7, datestamp=1592891272 (Jun 23 2020 05:47:52)
+0034.300 (0) This backup set is the backup set just made, so will not be deleted.
+0034.456 (0) This backup set is the backup set just made, so will not be deleted.
+0034.457 (0) This backup set is the backup set just made, so will not be deleted.
+0034.457 (0) This backup set is the backup set just made, so will not be deleted.
+0034.457 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.533 (0) Examining (for files) backup set with nonce=32ec9b15f473, datestamp=1592890510 (Jun 23 2020 05:35:10)
+0034.533 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.533 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0034.947 (0) Resume backup (9b2a4d4981f7, 0): finish run
+0035.533 (0) Decremented the semaphore (fd) by 1
+0035.879 (0) Semaphore (fd) unlocked
+0036.230 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0036.956 (0) Rescheduling resumption 1: moving to 100 seconds from now (1592891409)
+0037.407 (0) No email will/can be sent - the user has not configured an email address.
+0037.578 (0) The backup has not finished; a resumption is scheduled
+0143.827 (1) Opened log file at time: Tue, 23 Jun 2020 05:50:15 +0000 on http://localhost/anugy_web
+0143.939 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.2.31 (apache2handler, Windows NT DESKTOP-S5JF66O 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.31 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 33.7M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0143.972 (1) Free space on disk containing Updraft's temporary directory: 162739.2 MB
+0144.083 (1) Backup run: resumption=1, nonce=9b2a4d4981f7, file_nonce=9b2a4d4981f7 begun at=1592891272 (144s ago), job type=backup, previous check-in=27.1s
+0144.250 (1) Scheduling a resumption (2) after 300 seconds (1592891716) in case this run gets aborted
+0144.329 (1) Checking if we have a zip executable available
+0144.360 (1) Creation of backups of directories: already finished
+0144.417 (1) Saving backup status to database (elements: 8)
+0144.483 (1) Database dump (WordPress DB): Creation was completed already
+0144.583 (1) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0144.661 (1) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0144.717 (1) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0144.750 (1) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-others.zip: others: This file has not yet been successfully uploaded: will queue
+0144.783 (1) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz: db: This file has not yet been successfully uploaded: will queue
+0144.872 (1) Saving backup history. Total backup size: 27.9 MB
+0144.983 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0145.072 (1) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0145.105 (1) Beginning dispatch of backup to remote (dropbox) (instance identifier s-670526d3350abeec85a388f362afd701)
+0145.161 (1) Dropbox: You do not appear to be authenticated with Dropbox (1)
+0145.227 (1) An error condition has occurred for the first time during this job
+0145.438 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0145.484 (1) Number of backup sets in history: 2; groups (db): 1
+0145.539 (1) Examining (for databases) backup set with group_id=0, nonce=9b2a4d4981f7, datestamp=1592891272 (Jun 23 2020 05:47:52)
+0145.572 (1) This backup set is the backup set just made, so will not be deleted.
+0145.572 (1) Examining (for databases) backup set with group_id=0, nonce=32ec9b15f473, datestamp=1592890510 (Jun 23 2020 05:35:10)
+0145.572 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0145.628 (1) Number of backup sets in history: 2; groups (files): 1
+0145.660 (1) Examining (for files) backup set with nonce=9b2a4d4981f7, datestamp=1592891272 (Jun 23 2020 05:47:52)
+0145.661 (1) This backup set is the backup set just made, so will not be deleted.
+0145.695 (1) This backup set is the backup set just made, so will not be deleted.
+0145.695 (1) This backup set is the backup set just made, so will not be deleted.
+0145.695 (1) This backup set is the backup set just made, so will not be deleted.
+0145.695 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0145.739 (1) Examining (for files) backup set with nonce=32ec9b15f473, datestamp=1592890510 (Jun 23 2020 05:35:10)
+0145.739 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0145.740 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0145.805 (1) Resume backup (9b2a4d4981f7, 1): finish run
+0145.889 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0145.972 (1) No email will/can be sent - the user has not configured an email address.
+0146.039 (1) The backup has not finished; a resumption is scheduled
+0445.204 (2) Opened log file at time: Tue, 23 Jun 2020 05:55:17 +0000 on http://localhost/anugy_web
+0445.529 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.2.31 (apache2handler, Windows NT DESKTOP-S5JF66O 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.31 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 33.7M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0445.606 (2) Free space on disk containing Updraft's temporary directory: 162753 MB
+0446.083 (2) Backup run: resumption=2, nonce=9b2a4d4981f7, file_nonce=9b2a4d4981f7 begun at=1592891272 (446s ago), job type=backup
+0446.295 (2) Scheduling a resumption (3) after 300 seconds (1592892018) in case this run gets aborted
+0446.369 (2) Checking if we have a zip executable available
+0446.450 (2) Creation of backups of directories: already finished
+0446.517 (2) Saving backup status to database (elements: 8)
+0446.628 (2) Database dump (WordPress DB): Creation was completed already
+0446.906 (2) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip: plugins: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\anugy_web/wp-content/updraft/backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip)
+0446.972 (2) Recording as successfully uploaded: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-plugins.zip
+0447.039 (2) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-themes.zip: themes: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\anugy_web/wp-content/updraft/backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-themes.zip)
+0447.105 (2) Recording as successfully uploaded: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-themes.zip
+0447.306 (2) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-uploads.zip: uploads: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\anugy_web/wp-content/updraft/backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-uploads.zip)
+0447.439 (2) Recording as successfully uploaded: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-uploads.zip
+0447.617 (2) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-others.zip: others: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\anugy_web/wp-content/updraft/backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-others.zip)
+0447.650 (2) Recording as successfully uploaded: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-others.zip
+0447.727 (2) backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz: db: This file has not yet been successfully uploaded: will queue
+0447.796 (2) Saving backup history. Total backup size: 27.9 MB
+0447.972 (2) Requesting upload of the files that have not yet been successfully uploaded (1)
+0448.094 (2) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0448.128 (2) Beginning dispatch of backup to remote (dropbox) (instance identifier s-670526d3350abeec85a388f362afd701)
+0448.195 (2) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0448.280 (2) Dropbox: access gained; setting chunk size to: 1024 KB
+0448.922 (2) Dropbox: quota usage: used=0.2 MB, total=2048 MB, available=2047.8 MB
+0449.136 (2) Dropbox: Attempt to upload: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz to: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz
+0451.328 (2) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAT0bwxgJ5_qfiw, 168237, 1024 KB)
+0453.596 (2) Recording as successfully uploaded: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz
+0453.975 (2) Deleting local file: backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz: OK
+0454.139 (2) Dropbox: File upload success (backup_2020-06-23-0547_Anugya_web_9b2a4d4981f7-db.gz): 164 KB in 5s (32 KB/s)
+0454.617 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0454.699 (2) Number of backup sets in history: 3; groups (db): 1
+0454.862 (2) Examining (for databases) backup set with group_id=0, nonce=47e242031df1, datestamp=1592891706 (Jun 23 2020 05:55:06)
+0455.128 (2) Examining (for databases) backup set with group_id=0, nonce=c1b21c841908, datestamp=1592891478 (Jun 23 2020 05:51:18)
+0455.128 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0455.240 (2) Examining (for databases) backup set with group_id=0, nonce=9b2a4d4981f7, datestamp=1592891272 (Jun 23 2020 05:47:52)
+0455.240 (2) This backup set is the backup set just made, so will not be deleted.
+0455.240 (2) Number of backup sets in history: 3; groups (files): 1
+0455.384 (2) Examining (for files) backup set with nonce=47e242031df1, datestamp=1592891706 (Jun 23 2020 05:55:06)
+0455.384 (2) This backup set remains non-empty (f=1/d=0); will retain in history
+0455.507 (2) Examining (for files) backup set with nonce=c1b21c841908, datestamp=1592891478 (Jun 23 2020 05:51:18)
+0455.507 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0455.662 (2) Examining (for files) backup set with nonce=9b2a4d4981f7, datestamp=1592891272 (Jun 23 2020 05:47:52)
+0455.663 (2) This backup set is the backup set just made, so will not be deleted.
+0455.695 (2) This backup set is the backup set just made, so will not be deleted.
+0455.695 (2) This backup set is the backup set just made, so will not be deleted.
+0455.695 (2) This backup set is the backup set just made, so will not be deleted.
+0455.695 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0455.763 (2) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0456.243 (2) Resume backup (9b2a4d4981f7, 2): finish run
+0456.528 (2) There were no errors in the uploads, so the 'resume' event (3) is being unscheduled
+0456.819 (2) No email will/can be sent - the user has not configured an email address.
+0456.941 (2) The backup apparently succeeded and is now complete
+0000.000 (2) Opened log file at time: Tue, 23 Jun 2020 05:56:28 +0000 on http://localhost/anugy_web
+0000.077 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.2.31 (apache2handler, Windows NT DESKTOP-S5JF66O 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.31 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 33.7M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.119 (2) Free space on disk containing Updraft's temporary directory: 162766.8 MB
+0000.187 (2) This backup task (9b2a4d4981f7) is either complete or began over 2 days ago: ending (1592891788.1161, ) (existing jobdata keys: )
